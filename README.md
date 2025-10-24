@@ -11,7 +11,6 @@ Qi Lin is a 3D compositing piece created in Blender, where the mythical creature
 Using **Blender’s motion tracking** and **rigging tools**, I brought a digital *Qilin* — a legendary creature symbolizing purity and wisdom — into real-world scenes.  
 The project explores how fantasy and reality can coexist through seamless 3D compositing and cinematic storytelling.
 
-## 📁 Download
 You can download the full Blender project here:  
 ➡️ [Qilin_Project_Files.zip (Google Drive)](https://drive.google.com/your_link)
 
