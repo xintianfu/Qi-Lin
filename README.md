@@ -62,3 +62,7 @@ By merging **cinematic realism** with **3D fantasy**, *Qilin* transforms myth in
 
 ## 📺 **Demo Video**
 🎥 [*QiLin demo*  ](https://www.youtube.com/watch?v=xYS-eYrPRGE)
+
+## 📁 Download
+You can download the full Blender project here:  
+➡️ [Qilin_Project_Files.zip (Google Drive)](https://drive.google.com/your_link)
