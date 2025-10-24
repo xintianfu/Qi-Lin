@@ -12,7 +12,7 @@ Using **Blender’s motion tracking** and **rigging tools**, I brought a digital
 The project explores how fantasy and reality can coexist through seamless 3D compositing and cinematic storytelling.
 
 You can download the full Blender project here:  
-➡️ [Qilin_Project_Files.zip (Google Drive)]([https://drive.google.com/your_link](https://drive.google.com/file/d/1gsfyp8Mp-RPg1ay99EgYelJ-Hyomhf44/view?usp=sharing))
+➡️ [Qilin_Project_Files.zip (Google Drive)]([https://drive.google.com/your_link](https://drive.google.com/file/d/1gsfyp8Mp-RPg1ay99EgYelJ-Hyomhf44/view?usp=sharing)
 
 ---
 
