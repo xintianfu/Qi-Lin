@@ -12,7 +12,7 @@ Using **Blender’s motion tracking** and **rigging tools**, I brought a digital
 The project explores how fantasy and reality can coexist through seamless 3D compositing and cinematic storytelling.
 
 You can download the full Blender project here:  
-➡️ https://drive.google.com/file/d/1gsfyp8Mp-RPg1ay99EgYelJ-Hyomhf44/view?usp=sharing)
+➡️ https://drive.google.com/file/d/1gsfyp8Mp-RPg1ay99EgYelJ-Hyomhf44/view?usp=sharing
 
 ---
 
