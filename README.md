@@ -42,4 +42,4 @@ By merging **cinematic realism** with **3D fantasy**, *Qilin* transforms myth in
 ---
 
 ## 📺 **Demo Video**
-🎥 [*(QiLin demo)*  ](https://www.youtube.com/watch?v=xYS-eYrPRGE)
+🎥 [*QiLin demo*  ](https://www.youtube.com/watch?v=xYS-eYrPRGE)
