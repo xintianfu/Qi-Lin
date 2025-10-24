@@ -16,7 +16,7 @@ The project explores how fantasy and reality can coexist through seamless 3D com
 ## 🧠 **Technical Skills Applied**
 - 🎥 **Motion Tracking:** Matched real-world camera movement with virtual 3D space.<br>
 <p align="center">
-  <img width="273" height="157" alt="image" src="https://github.com/user-attachments/assets/d38e0bba-3522-4443-8b95-4c7e08b6f275" />
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/d38e0bba-3522-4443-8b95-4c7e08b6f275" />
   </p>
 
 - 🦴 **Rigging & Animation:** Created skeletal rigs to animate the Qilin model naturally.<br>
